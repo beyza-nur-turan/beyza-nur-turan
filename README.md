@@ -63,8 +63,15 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/beyza-nur-turan/beyza-nur-turan/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/bnur6142/bnur6142/output/snake.svg" alt="Snake animation" />
 
+###
+
+###
+
+<div align="center">
+  <img height="130" src="https://i.gifer.com/76cI.gif"  />
+</div>
 
 ###
 
