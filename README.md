@@ -63,7 +63,8 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/beyza-nur-turan/beyza-nur-turan/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/beyza-nur-turan/beyza-nur-turan/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
