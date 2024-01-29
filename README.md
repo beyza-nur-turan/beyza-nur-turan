@@ -21,7 +21,7 @@
 [![](https://visitcount.itsvg.in/api?id=beyza-nur-turan&icon=7&color=6)](https://visitcount.itsvg.in) -->
 
 
-<h1 align="left">Hi 👋! My name is Beyza Nur and I'm a Frontend Developer</h1>
+<h1 align="left">Hi 👋! My name is Beyza Nur and I'm a Software Developer</h1>
 
 ###
 
